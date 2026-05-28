@@ -15,6 +15,7 @@ Whether you are a terminal beginner committing your first lines of code or a sen
 The cheatsheet is divided into **30 structured, self-contained chapters** covering the entire spectrum of version control.
 
 ### 📁 Phase 1: Git Foundations (The Basics)
+
 | Chapter | Topic | Key Commands |
 | :--- | :--- | :--- |
 | **[Chapter 01](01-terminal-basics.md)** | 🖥️ Terminal Basics | `ls`, `cd`, `pwd`, `mkdir`, `rm` |
@@ -29,6 +30,7 @@ The cheatsheet is divided into **30 structured, self-contained chapters** coveri
 | **[Chapter 10](10-merge-rebase-basics.md)** | 🔀 Merge vs. Rebase | `git merge`, `git rebase` basics |
 
 ### 📁 Phase 2: Undoing & Workspace Control
+
 | Chapter | Topic | Key Commands |
 | :--- | :--- | :--- |
 | **[Chapter 11](11-reset-revert-basics.md)** | 🔄 Reset vs. Revert | `git reset --hard`, `git revert`, `git clean` |
@@ -38,6 +40,7 @@ The cheatsheet is divided into **30 structured, self-contained chapters** coveri
 | **[Chapter 15](15-stash-git.md)** | 🎒 Workspace Stashing | `git stash`, `git stash pop`, `git stash -u` |
 
 ### 📁 Phase 3: Advanced Operations & Collaboration
+
 | Chapter | Topic | Key Commands |
 | :--- | :--- | :--- |
 | **[Chapter 16](16-git-config-advanced.md)** | 🔑 SSH Keys & Aliases | `ssh-keygen`, global `.gitconfig` alias scripts |
@@ -47,6 +50,7 @@ The cheatsheet is divided into **30 structured, self-contained chapters** coveri
 | **[Chapter 20](20-github-collaboration.md)** | 🤝 Forking & PR Workflows | `upstream` sync, pull requests, open-source setup |
 
 ### 📁 Phase 4: Enterprise Git & DevOps
+
 | Chapter | Topic | Key Concepts |
 | :--- | :--- | :--- |
 | **[Chapter 21](21-resolving-merge-conflicts.md)** | 💥 Conflict Resolution | Marker parsing, `git mergetool`, Meld/VS Code setup |
